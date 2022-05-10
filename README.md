@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karthika
 - 👀 I’m interested in the applications of AI for the advancement of Healthcare and Life Sciences.  
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about Human Signals.
 - 💞️ I’m looking to collaborate on interesting open-source projects on the same line of my interest.
 - 📫 How to reach me is through LinkedIn.
 
