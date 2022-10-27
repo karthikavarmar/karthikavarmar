@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on interesting open-source projects on the same line of my interest.
 - 📫 How to reach me is through LinkedIn.
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=karthikavarmar.visitor-badge)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
