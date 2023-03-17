@@ -2,7 +2,6 @@
 - 👀 I’m interested in the applications of AI for the advancement of Healthcare and Life Sciences.  
 - 🌱 I’m currently learning about sustainable solutions for problems eating the human-kind.
 - 💞️ I’m looking to collaborate on interesting open-source projects on the same line of my interest.
-- 📫 How to reach me is through LinkedIn.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=karthikavarmar.visitor-badge)
 
